@@ -1,0 +1,22 @@
+{
+  "name": "zen-theme",
+  "displayName": "zen-theme",
+  "description": "",
+  "publisher": "pzielinski",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.101.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "zen-theme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/zen-theme-color-theme.json"
+      }
+    ]
+  }
+}
