@@ -3,10 +3,10 @@
   "displayName": "zen-theme",
   "description": "",
   "publisher": "pzielinski",
-  "version": "0.0.4",
+  "version": "0.0.5",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/piotrzielinski1994/vscode-zen-theme.git"
+    "url": "https://github.com/piotrzielinski1994/vscode-zen-theme.git"
   },
   "engines": {
     "vscode": "^1.101.0"
